@@ -1,4 +1,3 @@
-// backend/controllers/ratingController.js
 const Rating = require("../models/Rating");
 
 exports.submitRating = async (req, res) => {

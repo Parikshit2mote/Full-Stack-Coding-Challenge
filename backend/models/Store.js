@@ -1,4 +1,3 @@
-// backend/models/Store.js
 const db = require("../config/db");
 
 class Store {

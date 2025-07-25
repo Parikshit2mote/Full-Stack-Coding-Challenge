@@ -1,4 +1,3 @@
-// frontend/src/pages/UserDashboard.js
 import React, { useEffect, useState } from "react";
 import { Container, Typography, Box, Snackbar, Alert, TextField, Grid, Stack } from "@mui/material";
 import Navbar from "../components/Navbar";

@@ -1,4 +1,3 @@
-// frontend/src/pages/Register.js
 import React, { useState } from "react";
 import { TextField, Button, Container, Typography, Box, Paper } from "@mui/material";
 import PersonAddAlt1Icon from '@mui/icons-material/PersonAddAlt1';

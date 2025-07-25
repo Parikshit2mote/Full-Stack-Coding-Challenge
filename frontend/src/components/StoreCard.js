@@ -1,4 +1,3 @@
-// frontend/src/components/StoreCard.js
 import React from "react";
 import { Card, CardContent, Typography, Rating } from "@mui/material";
 

@@ -1,4 +1,3 @@
-// backend/controllers/storeController.js
 const Store = require("../models/Store");
 
 exports.createStore = async (req, res) => {

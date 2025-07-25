@@ -1,4 +1,3 @@
-// frontend/src/pages/StoreDashboard.js
 import React, { useEffect, useState } from "react";
 import {
   Container,
