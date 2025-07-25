@@ -1,5 +1,11 @@
 {
+  "scripts": {
+    "start": "concurrently \"npm run start --prefix backend\" \"npm run start --prefix frontend\""
+  },
   "dependencies": {
     "bcrypt": "^6.0.0"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.0"
   }
 }
