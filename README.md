@@ -1,6 +1,6 @@
 # RateMyStore
 
-RateMyStore is a full stack web application that allows users to browse, rate, and review stores. It features user authentication, role-based dashboards (Admin, Store Owner, User), and a modern UI built with React and Material-UI
+RateMyStore is a full stack web application that allows users to browse, rate, and review stores. It features user authentication, role-based dashboards (Admin, Store Owner, User), and a modern UI built with React and Material-UI.
 
 ## Features
 
